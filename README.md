@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Fazhari Rizky
+- 👀 I’m interested in : Front End Developer
+- 🌱 I’m currently learning : HTML,CSS,Javascript
+- 📫 How to reach me : fazharirizkyy@gmail.com
+- ⚡ Fun fact: Likes Reading Books
