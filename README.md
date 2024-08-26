@@ -6,14 +6,13 @@
 
 ## 📫 Get in Touch
 - **LinkedIn**: [linkedin.com/in/Fazhari Rizky](https://www.linkedin.com/in/fazhari-rizky-277061299/)
-- **Instagram**: [instagram.com/fazhari999](https://www.instagram.com/fazhari999/)
 - **Email**: fazharirizkyy@gmail.com
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fazharii&label=Profile%20views&color=0e75b6&style=flat" alt="fazharii" /> </p>
 
 - ## 🌱 I’m currently learning **FRONTEND DEVELOPER**
 - 🌱 What I’m Learning
-- **Advanced JavaScript : Diving deeper into the latest JavaScript features.
+- **Advanced JavaScript**: Diving deeper into the latest JavaScript features.
 - **React.js & Next.js**: Building dynamic and high-performance web applications.
 - **CSS Framework**: Experimenting with Styled Components and Emotion.
 
